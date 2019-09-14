@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652531630967",
+    "firebase_url": "https://firstrespond-8c951.firebaseio.com",
+    "project_id": "firstrespond-8c951",
+    "storage_bucket": "firstrespond-8c951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652531630967:android:0ab968c8bc6a0c2565d772",
+        "android_client_info": {
+          "package_name": "com.ibm.shwetank.firstrespond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652531630967-sj8hui18md57n3h5cj6hpivacfdk0hd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaQ4u0W23u0ImTb5JbbVlDheMwl7Z7t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652531630967-sj8hui18md57n3h5cj6hpivacfdk0hd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
